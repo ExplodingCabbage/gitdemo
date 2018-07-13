@@ -1,4 +1,4 @@
-Bla bla bla
+Bla bla
 
 Fo o bar baz
 
