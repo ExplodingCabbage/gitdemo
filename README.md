@@ -1,7 +1,5 @@
 Bla bla
 
-Foo bar baz
-
 Here is another line
 
 More stuff
