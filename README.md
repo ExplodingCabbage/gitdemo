@@ -1,6 +1,6 @@
 Bla bla
 
-Fo o bar baz
+Foo bar baz
 
 Here is another line
 
